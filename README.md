@@ -1,7 +1,7 @@
 # hema-books
 German and English Books about HEMA topics
 
-## German sources
+## German primary sources
 - Peter von Danzig, Dierk Hagedorn
 - Jude Lew, Dierk Hagedorn
 - Goliath, Dierk Hagedorn
@@ -13,4 +13,9 @@ German and English Books about HEMA topics
 - Codex Amberger, Dierk Hagedorn
 - 
 
-## English sources
+## English primary sources
+
+## German secondary sources
+- Der Schielhau im Detail, 2023, Alexander Fürgut
+- Schwertkampf: Der Kampf mit dem langen Schwert nach der deutschen Schule. Band 1, Herbert Schmidt
+- Schwertkampf: Der Kampf mit dem kurzen Schwert und Buckler nach der deutschen Schule. Band 2.
