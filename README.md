@@ -33,6 +33,10 @@ German and English Books about HEMA topics
 - Schwertkampf Band 3: Der Kampf mit dem langen Schwert nach der Italienischen Schule. Guy Windsor
 - Lebendige Schwertkunst: Bloßfechten mit dem Schwert und der Feder. Wolfgang Abart
 
+## English secondary sources
+- Sword Fighting: An Introduction to Handling a Long Sword. Herbert Schmidt
+- Sword Fighting 2: An Introduction to the Single-Handed Sword and Buckler. Herbert Schmidt
+
 ## German academic monographs
 - Höfisches Spiel und tödlicher Ernst: Das Bloßfechten mit dem langen Schwert in den deutschsprachigen Fechtbüchern des späten Mittelalters und der frühen Neuzeit. Patrik Leiske.
 - Die Kunst des Fechtens. Elisabeth Vavra, Matthias Johannes Bauer.
