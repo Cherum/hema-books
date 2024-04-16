@@ -16,6 +16,10 @@ German and English Books about HEMA topics
 - Das Tower Fechtbuch. Ein Meisterwerk der mittelalterlichen Kampfkunst, Jeffrey Forgeng
 - Langes Schwert und Schweinespiess: Die anonyme Fechthandschrift aus den verschütteten Beständen des Historischen Archivs der Stadt Köln. Matthias Johannes Bauer
 - Joachim Meyer 1600: Transkription des Fechtbuchs 'Gründtliche Beschreibung der freyen Ritterlichen und Adelichen kunst des Fechtens'. Wolfgang Landwehr.
+- System der Klingen 1: Übergreifende Techniken bei verschiedenen Waffen. Ingo Litschka.
+- System der Klingen 2: ungleiche Waffen und Halbschwert. Ingo Litschka.
+- System der Klingen 3: Schrittfolgen, Haltung und mehr. Ingo Litschka
+- System der Klingen 4: Buckler, Schwert und erste Spiele. Ingo Litschka
 
 ## English primary sources
 
