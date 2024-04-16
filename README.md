@@ -13,6 +13,7 @@ German and English Books about HEMA topics
 - Codex Amberger, Dierk Hagedorn
 - Joachim Meyer: Kunst des Fechtens, Band 1, Alexander Kiermayer
 - Joachim Meyer: Kunst des Fechtens, Band 2, Alexander Kiermayer
+- Das Tower Fechtbuch. Ein Meisterwerk der mittelalterlichen Kampfkunst, Jeffrey Forgeng
 
 ## English primary sources
 
