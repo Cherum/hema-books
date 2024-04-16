@@ -14,6 +14,7 @@ German and English Books about HEMA topics
 - Joachim Meyer: Kunst des Fechtens, Band 1, Alexander Kiermayer
 - Joachim Meyer: Kunst des Fechtens, Band 2, Alexander Kiermayer
 - Das Tower Fechtbuch. Ein Meisterwerk der mittelalterlichen Kampfkunst, Jeffrey Forgeng
+- Langes Schwert und Schweinespiess: Die anonyme Fechthandschrift aus den verschütteten Beständen des Historischen Archivs der Stadt Köln. Matthias Johannes Bauer
 
 ## English primary sources
 
@@ -25,3 +26,8 @@ German and English Books about HEMA topics
 - Modernes Training mit dem Langen Schwert nach Liechtenauer, Christian Henry Tobler
 - Handbuch Schwertkampf: Ein Lehrbuch für den Kampf mit dem Langen Schwert nach Fiore Dei Liberi und Filippo Vadi. Guy Windsor
 - Schwertkampf Band 3: Der Kampf mit dem langen Schwert nach der Italienischen Schule. Guy Windsor
+- Lebendige Schwertkunst: Bloßfechten mit dem Schwert und der Feder. Wolfgang Abart
+
+## German academic monographs
+- Höfisches Spiel und tödlicher Ernst: Das Bloßfechten mit dem langen Schwert in den deutschsprachigen Fechtbüchern des späten Mittelalters und der frühen Neuzeit. Patrik Leiske.
+- 
