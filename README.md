@@ -18,4 +18,5 @@ German and English Books about HEMA topics
 ## German secondary sources
 - Der Schielhau im Detail, 2023, Alexander Fürgut
 - Schwertkampf: Der Kampf mit dem langen Schwert nach der deutschen Schule. Band 1, Herbert Schmidt
-- Schwertkampf: Der Kampf mit dem kurzen Schwert und Buckler nach der deutschen Schule. Band 2.
+- Schwertkampf: Der Kampf mit dem kurzen Schwert und Buckler nach der deutschen Schule. Band 2, Herbert Schmidt
+- Dolchfechten: Der mittelalterliche Kampf mit dem Dolch nach Meister Talhoffer, Clemens Nimscholz, Ralf Schoetzau
