@@ -15,6 +15,7 @@ German and English Books about HEMA topics
 - Joachim Meyer: Kunst des Fechtens, Band 2, Alexander Kiermayer
 - Das Tower Fechtbuch. Ein Meisterwerk der mittelalterlichen Kampfkunst, Jeffrey Forgeng
 - Langes Schwert und Schweinespiess: Die anonyme Fechthandschrift aus den verschütteten Beständen des Historischen Archivs der Stadt Köln. Matthias Johannes Bauer
+- Joachim Meyer 1600: Transkription des Fechtbuchs 'Gründtliche Beschreibung der freyen Ritterlichen und Adelichen kunst des Fechtens'. Wolfgang Landwehr.
 
 ## English primary sources
 
@@ -30,4 +31,4 @@ German and English Books about HEMA topics
 
 ## German academic monographs
 - Höfisches Spiel und tödlicher Ernst: Das Bloßfechten mit dem langen Schwert in den deutschsprachigen Fechtbüchern des späten Mittelalters und der frühen Neuzeit. Patrik Leiske.
-- 
+- Die Kunst des Fechtens. Elisabeth Vavra, Matthias Johannes Bauer.
