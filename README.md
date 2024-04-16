@@ -11,7 +11,8 @@ German and English Books about HEMA topics
 - Talhoffers Fechtbuch, Dierk Hagedorn
 - Gladiatoria, Dierk Hagedorn
 - Codex Amberger, Dierk Hagedorn
-- 
+- Joachim Meyer: Kunst des Fechtens, Band 1, Alexander Kiermayer
+- Joachim Meyer: Kunst des Fechtens, Band 2, Alexander Kiermayer
 
 ## English primary sources
 
