@@ -26,6 +26,8 @@ German and English Books about HEMA topics
 - Dürer's Fight Book: The Genius of the German Renaissance and His Combat Treatise. Dierk Hagedorn
 - Renaissance Combat: Jörg Wilhalm's Fightbook, 1522-1523. Dierk Hagedorn
 - Medieval Armoured Combat: The 1450 Fencing Manuscript from New Haven. Dierk Hagedorn
+- The Flower of Battle: MS Ludwig XV13. Tracy Mellow
+- The Flower of Battle: MS M 383. Michael Chidester
 
 ## German secondary sources
 - Der Schielhau im Detail, 2023, Alexander Fürgut
