@@ -16,11 +16,6 @@ German and English Books about HEMA topics
 - Das Tower Fechtbuch. Ein Meisterwerk der mittelalterlichen Kampfkunst, Jeffrey Forgeng
 - Langes Schwert und Schweinespiess: Die anonyme Fechthandschrift aus den verschütteten Beständen des Historischen Archivs der Stadt Köln. Matthias Johannes Bauer
 - Joachim Meyer 1600: Transkription des Fechtbuchs 'Gründtliche Beschreibung der freyen Ritterlichen und Adelichen kunst des Fechtens'. Wolfgang Landwehr.
-- System der Klingen 1: Übergreifende Techniken bei verschiedenen Waffen. Ingo Litschka.
-- System der Klingen 2: ungleiche Waffen und Halbschwert. Ingo Litschka.
-- System der Klingen 3: Schrittfolgen, Haltung und mehr. Ingo Litschka
-- System der Klingen 4: Buckler, Schwert und erste Spiele. Ingo Litschka
-- Highland Broadsword: Fechten mit schottischen Waffen (DragonSys, Band 13). Stefan Städtler-Ley
 
 ## English primary sources
 - The Peter Von Danzig Fight Book: The Complete 15th Century Manuscript. Dierk Hagedorn
@@ -40,6 +35,11 @@ German and English Books about HEMA topics
 - Handbuch Schwertkampf: Ein Lehrbuch für den Kampf mit dem Langen Schwert nach Fiore Dei Liberi und Filippo Vadi. Guy Windsor
 - Schwertkampf Band 3: Der Kampf mit dem langen Schwert nach der Italienischen Schule. Guy Windsor
 - Lebendige Schwertkunst: Bloßfechten mit dem Schwert und der Feder. Wolfgang Abart
+- - System der Klingen 1: Übergreifende Techniken bei verschiedenen Waffen. Ingo Litschka.
+- System der Klingen 2: ungleiche Waffen und Halbschwert. Ingo Litschka.
+- System der Klingen 3: Schrittfolgen, Haltung und mehr. Ingo Litschka
+- System der Klingen 4: Buckler, Schwert und erste Spiele. Ingo Litschka
+- Highland Broadsword: Fechten mit schottischen Waffen (DragonSys, Band 13). Stefan Städtler-Ley
 
 ## English secondary sources
 - Sword Fighting: An Introduction to Handling a Long Sword. Herbert Schmidt
