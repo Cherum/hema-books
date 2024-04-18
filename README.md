@@ -22,6 +22,10 @@ German and English Books about HEMA topics
 - System der Klingen 4: Buckler, Schwert und erste Spiele. Ingo Litschka
 
 ## English primary sources
+- The Peter Von Danzig Fight Book: The Complete 15th Century Manuscript. Dierk Hagedorn
+- Dürer's Fight Book: The Genius of the German Renaissance and His Combat Treatise. Dierk Hagedorn
+- Renaissance Combat: Jörg Wilhalm's Fightbook, 1522-1523. Dierk Hagedorn
+- Medieval Armoured Combat: The 1450 Fencing Manuscript from New Haven. Dierk Hagedorn
 
 ## German secondary sources
 - Der Schielhau im Detail, 2023, Alexander Fürgut
