@@ -20,6 +20,7 @@ German and English Books about HEMA topics
 - System der Klingen 2: ungleiche Waffen und Halbschwert. Ingo Litschka.
 - System der Klingen 3: Schrittfolgen, Haltung und mehr. Ingo Litschka
 - System der Klingen 4: Buckler, Schwert und erste Spiele. Ingo Litschka
+- Highland Broadsword: Fechten mit schottischen Waffen (DragonSys, Band 13). Stefan Städtler-Ley
 
 ## English primary sources
 - The Peter Von Danzig Fight Book: The Complete 15th Century Manuscript. Dierk Hagedorn
