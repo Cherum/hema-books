@@ -28,6 +28,7 @@ German and English Books about HEMA topics
 - Medieval Armoured Combat: The 1450 Fencing Manuscript from New Haven. Dierk Hagedorn
 - The Flower of Battle: MS Ludwig XV13. Tracy Mellow
 - The Flower of Battle: MS M 383. Michael Chidester
+- Joachim Meyer. Art of Sword Combat: 1568 German Treatise on Swordmanship. Jeffrey L. Forgeng
 
 ## German secondary sources
 - Der Schielhau im Detail, 2023, Alexander Fürgut
